@@ -1,0 +1,11 @@
+{
+  "name": "gitignore-practice",
+  "version": "0.1.0",
+  "description": "Практика работы с Git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "author": "",
+  "license": "ISC"
+}
